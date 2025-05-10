@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "knrdstrss.de",
+    "title": "blog von svnskr",
     "description": "",
     "home_page_url": "https://svnskr.github.io",
     "feed_url": "https://svnskr.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://svnskr.github.io/media/website/defender.jpg",
     "author": {
         "name": "svnskr"
     },
